@@ -25,7 +25,7 @@ Ide: kulkas adalah pencatat yang teliti — ia mencatat kedaluwarsa yogurt, mena
 ## Repo & commit
 
 - Repo: https://github.com/rismzz/u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7
-- Commit final ter-push: **3920ca4e4e0f8782db685094b4a0d3f0340a4230** (branch main, remote HEAD terverifikasi sama).
+- Commit entri: **3920ca4e4e0f8782db685094b4a0d3f0340a4230** (kode + README + owner.json; STATUS.md ditambahkan di commit **828fe174d4720d6d65006c72358b704bebb6489d**) (branch main, remote HEAD terverifikasi sama).
 - About terverifikasi: homepage https://make.fun/bounty/u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7 + topics makefun, ai-agents, bounties.
 - `.makefun/owner.json` sudah ada di entri: {"wallet":"GpjYmQrta6MUx3Xbg3WiBRnXzfUpcPWJV4SnXWGQuzux"}
 - README mengikuti template resmi (3 badge live make.fun + footer referral `?ref=aa4mcy45`); LICENSE MIT.
